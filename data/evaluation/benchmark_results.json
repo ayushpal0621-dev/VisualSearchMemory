@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-09-17T13:55:49Z",
+  "total_queries": 104,
+  "total_corpus_images": 29,
+  "results": [
+    {
+      "strategy": "1. Filename Search",
+      "queries_evaluated": 104,
+      "precision_at_5": 0.3769,
+      "precision_at_10": 0.2356,
+      "recall_at_5": 0.5909,
+      "recall_at_10": 0.6659,
+      "mrr": 0.633,
+      "avg_latency_ms": 0.01
+    },
+    {
+      "strategy": "2. OCR-only Search",
+      "queries_evaluated": 104,
+      "precision_at_5": 0.475,
+      "precision_at_10": 0.3029,
+      "recall_at_5": 0.7664,
+      "recall_at_10": 0.8654,
+      "mrr": 0.8556,
+      "avg_latency_ms": 0.05
+    },
+    {
+      "strategy": "3. Vector Embedding",
+      "queries_evaluated": 104,
+      "precision_at_5": 0.1096,
+      "precision_at_10": 0.1067,
+      "recall_at_5": 0.1198,
+      "recall_at_10": 0.2592,
+      "mrr": 0.2161,
+      "avg_latency_ms": 16.92
+    },
+    {
+      "strategy": "4. Hybrid Retrieval (Vector + BM25)",
+      "queries_evaluated": 104,
+      "precision_at_5": 0.475,
+      "precision_at_10": 0.3058,
+      "recall_at_5": 0.7624,
+      "recall_at_10": 0.8702,
+      "mrr": 0.8834,
+      "avg_latency_ms": 22.88
+    },
+    {
+      "strategy": "5. Hybrid + Signal Re-ranking",
+      "queries_evaluated": 104,
+      "precision_at_5": 0.475,
+      "precision_at_10": 0.3058,
+      "recall_at_5": 0.7624,
+      "recall_at_10": 0.8702,
+      "mrr": 0.8834,
+      "avg_latency_ms": 22.63
+    }
+  ]
+}

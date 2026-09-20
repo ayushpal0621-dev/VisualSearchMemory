@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "eval-001",
+    "domain": "Cloud Architecture",
+    "query": "Find my AWS architecture screenshots",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-002",
+    "domain": "Cloud Architecture",
+    "query": "AWS serverless microservices diagram",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-003",
+    "domain": "Cloud Architecture",
+    "query": "Lambda and API Gateway cloud workflow",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-004",
+    "domain": "Cloud Architecture",
+    "query": "Event driven cloud architecture design",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-005",
+    "domain": "Cloud Architecture",
+    "query": "Serverless system topology blueprint",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-006",
+    "domain": "Cloud Architecture",
+    "query": "Cloud backend with DynamoDB and SQS",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-007",
+    "domain": "Cloud Architecture",
+    "query": "AWS infrastructure diagram with microservices",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-008",
+    "domain": "Cloud Architecture",
+    "query": "Cloud reference architecture illustration",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-009",
+    "domain": "Cloud Architecture",
+    "query": "Microservices flow diagram",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-010",
+    "domain": "Cloud Architecture",
+    "query": "Distributed cloud serverless setup",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-011",
+    "domain": "Cloud Architecture",
+    "query": "Architecture schematic with AWS components",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-012",
+    "domain": "Cloud Architecture",
+    "query": "Cloud native pipeline architecture",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-013",
+    "domain": "Cloud Architecture",
+    "query": "Serverless cloud deployment graph",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cb0178a0-844b-42b5-a39e-827406fa052f",
+      "3863c98f-e612-4116-ae3c-8f10cc0cd9d2",
+      "598d2e99-6a4a-4f6f-85a1-7d1bb3862fda",
+      "a3fb0af1-8864-4ae8-9233-a076b71efc51",
+      "fc3fb7ef-fdc8-4138-91ae-d0e4a2a0f29f",
+      "a209aabe-a22c-40b4-bf49-ad497323ceda"
+    ]
+  },
+  {
+    "id": "eval-014",
+    "domain": "Programming & Code",
+    "query": "Show images containing Python code",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-015",
+    "domain": "Programming & Code",
+    "query": "Python Dijkstra algorithm implementation",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-016",
+    "domain": "Programming & Code",
+    "query": "Graph shortest path priority queue code",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-017",
+    "domain": "Programming & Code",
+    "query": "Source code snippet with def dijkstra",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-018",
+    "domain": "Programming & Code",
+    "query": "Python graph search algorithm script",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-019",
+    "domain": "Programming & Code",
+    "query": "Python function with adjacency list",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-020",
+    "domain": "Programming & Code",
+    "query": "IDE screenshot with code",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-021",
+    "domain": "Programming & Code",
+    "query": "Dark mode code editor with algorithm",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-022",
+    "domain": "Programming & Code",
+    "query": "Python syntax with heap and queue",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-023",
+    "domain": "Programming & Code",
+    "query": "Programming tutorial code screenshot",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-024",
+    "domain": "Programming & Code",
+    "query": "Computer science algorithm code snippet",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-025",
+    "domain": "Programming & Code",
+    "query": "Clean code implementation of graph traversal",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-026",
+    "domain": "Programming & Code",
+    "query": "Python script for single source shortest path",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "86d2b893-4787-449c-a5f1-be2cf6c4124f",
+      "e5805d83-d5fe-4dbb-813a-6cacd068b666"
+    ]
+  },
+  {
+    "id": "eval-027",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Show my handwritten DSA notes",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-028",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Handwritten notes about binary trees and graphs",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-029",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Notebook page with data structure sketches",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-030",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Handwritten algorithm study notes",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-031",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Handwriting on ruled paper with Big-O notation",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-032",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Personal study notes on graph theory",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-033",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Handwritten exam preparation notes",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-034",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Notebook sketch of tree traversal",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-035",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Pen and paper computer science revision",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-036",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Handwritten notes with complexity analysis",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-037",
+    "domain": "Handwritten Notes & DSA",
+    "query": "DSA preparation handwritten notebook",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-038",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Drawn diagrams on paper with notes",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-039",
+    "domain": "Handwritten Notes & DSA",
+    "query": "Handwritten summary of algorithms",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "88ad4971-df82-4aed-9d82-f6bda681d69d",
+      "01f11a4a-7d3f-4065-bee9-61154dd65123"
+    ]
+  },
+  {
+    "id": "eval-040",
+    "domain": "Keynotes & Presentations",
+    "query": "Find the photo where I was presenting",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-041",
+    "domain": "Keynotes & Presentations",
+    "query": "Keynote presentation on artificial intelligence",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-042",
+    "domain": "Keynotes & Presentations",
+    "query": "Ayush Pal presenting multimodal IR talk",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-043",
+    "domain": "Keynotes & Presentations",
+    "query": "Speaker presentation slide at tech conference",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-044",
+    "domain": "Keynotes & Presentations",
+    "query": "Conference slide deck about multimodal search",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-045",
+    "domain": "Keynotes & Presentations",
+    "query": "Keynote slide with speaker name",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-046",
+    "domain": "Keynotes & Presentations",
+    "query": "Tech talk slide with vector search topic",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-047",
+    "domain": "Keynotes & Presentations",
+    "query": "Presentation deck on modern AI architectures",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-048",
+    "domain": "Keynotes & Presentations",
+    "query": "Auditorium talk presentation slides",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-049",
+    "domain": "Keynotes & Presentations",
+    "query": "Slide showing information retrieval techniques",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-050",
+    "domain": "Keynotes & Presentations",
+    "query": "Lecture presentation slide with bullets",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-051",
+    "domain": "Keynotes & Presentations",
+    "query": "Conference seminar presentation screenshot",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-052",
+    "domain": "Keynotes & Presentations",
+    "query": "Keynote deck about multimodal semantic search",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "ed2c3c9b-3e79-4f29-8b74-ffcbde519b90",
+      "faa05efa-7749-414a-89ab-ddf8f1b370de"
+    ]
+  },
+  {
+    "id": "eval-053",
+    "domain": "Automotive & Vehicles",
+    "query": "Find the red car photo",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-054",
+    "domain": "Automotive & Vehicles",
+    "query": "Ferrari SF90 Stradale sports car",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-055",
+    "domain": "Automotive & Vehicles",
+    "query": "Red exotic supercar on tarmac",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-056",
+    "domain": "Automotive & Vehicles",
+    "query": "Rosso Corsa luxury automotive photo",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-057",
+    "domain": "Automotive & Vehicles",
+    "query": "Fast Italian sports car picture",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-058",
+    "domain": "Automotive & Vehicles",
+    "query": "Red vehicle in outdoor automotive showcase",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-059",
+    "domain": "Automotive & Vehicles",
+    "query": "High performance red coupe",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-060",
+    "domain": "Automotive & Vehicles",
+    "query": "Close up of red luxury sports automobile",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-061",
+    "domain": "Automotive & Vehicles",
+    "query": "Ferrari supercar high resolution picture",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-062",
+    "domain": "Automotive & Vehicles",
+    "query": "Red car exterior photography",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-063",
+    "domain": "Automotive & Vehicles",
+    "query": "Supercar showroom photograph",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-064",
+    "domain": "Automotive & Vehicles",
+    "query": "Bright red vehicle photo in sunlight",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-065",
+    "domain": "Automotive & Vehicles",
+    "query": "Sports car parked on the road",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "cf0c66e2-d8a7-432d-9844-4b7beee2f725",
+      "78c0facd-1db1-4f54-bfdd-932fb35b6358",
+      "bf2b6eaf-c405-4e9f-abb3-88d2ddf48d6f",
+      "512208f0-140c-4916-91ef-a13b9f2b6df8",
+      "51a2b5df-3d00-4354-a8c5-04ad1b1cb854",
+      "9c2e0abf-9051-4828-a01f-920c615e7ec0",
+      "6ec9e95d-270e-439e-8035-9055f280392b",
+      "c992577d-563b-4d22-bc98-77d66fa16410"
+    ]
+  },
+  {
+    "id": "eval-066",
+    "domain": "Relational Databases & SQL",
+    "query": "Find screenshots mentioning PostgreSQL",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-067",
+    "domain": "Relational Databases & SQL",
+    "query": "Database ER diagram with foreign keys",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-068",
+    "domain": "Relational Databases & SQL",
+    "query": "PostgreSQL schema with users and orders tables",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-069",
+    "domain": "Relational Databases & SQL",
+    "query": "Relational database schema blueprint",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-070",
+    "domain": "Relational Databases & SQL",
+    "query": "Table definitions and relationship constraints",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-071",
+    "domain": "Relational Databases & SQL",
+    "query": "Entity relationship diagram screenshot",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-072",
+    "domain": "Relational Databases & SQL",
+    "query": "SQL table diagram with UUID primary key",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-073",
+    "domain": "Relational Databases & SQL",
+    "query": "Database architecture diagram with relations",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-074",
+    "domain": "Relational Databases & SQL",
+    "query": "Postgres database schema tables",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-075",
+    "domain": "Relational Databases & SQL",
+    "query": "Data modeling diagram for e-commerce system",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-076",
+    "domain": "Relational Databases & SQL",
+    "query": "Foreign key relationship map",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-077",
+    "domain": "Relational Databases & SQL",
+    "query": "PostgreSQL relational database layout",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-078",
+    "domain": "Relational Databases & SQL",
+    "query": "Database schema documentation diagram",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "1f505183-3f0e-4b35-8f28-ebfe7c048d19",
+      "5d2d03a4-4b3d-4d19-ba88-add769a7ee95"
+    ]
+  },
+  {
+    "id": "eval-079",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Show diagrams related to machine learning",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-080",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "MLOps system design pipeline diagram",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-081",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Feature store and model serving architecture",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-082",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Machine learning production infrastructure design",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-083",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Batch and streaming ML feature ingestion flow",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-084",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Low latency model inference pipeline",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-085",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "ML training and feature storage blueprint",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-086",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Production AI system architecture diagram",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-087",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "ML model serving and registry diagram",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-088",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "MLOps end-to-end platform design",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-089",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "System diagram showing ML feature pipelines",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-090",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Model deployment and monitoring workflow",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-091",
+    "domain": "MLOps & Machine Learning Systems",
+    "query": "Machine learning system design diagram",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "c9c60b76-e9a1-4014-9955-bee4fa56654c",
+      "4d3e4643-5cb9-4dfb-95a5-5d85af1c7bca"
+    ]
+  },
+  {
+    "id": "eval-092",
+    "domain": "Documents & Campus Posters",
+    "query": "College event poster with team directors",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-093",
+    "domain": "Documents & Campus Posters",
+    "query": "AWS student club banner screenshot",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-094",
+    "domain": "Documents & Campus Posters",
+    "query": "RUDRAKSH SALONI student council roster",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-095",
+    "domain": "Documents & Campus Posters",
+    "query": "Technical team members announcement flyer",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-096",
+    "domain": "Documents & Campus Posters",
+    "query": "Campus community leadership poster",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-097",
+    "domain": "Documents & Campus Posters",
+    "query": "Instagram social media club post",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-098",
+    "domain": "Documents & Campus Posters",
+    "query": "University student group executive board",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-099",
+    "domain": "Documents & Campus Posters",
+    "query": "Event promotional graphic with names",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-100",
+    "domain": "Documents & Campus Posters",
+    "query": "Student organization official announcement",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-101",
+    "domain": "Documents & Campus Posters",
+    "query": "Graphic poster with technical directors listed",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-102",
+    "domain": "Documents & Campus Posters",
+    "query": "AWS student community social banner",
+    "difficulty": "easy",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-103",
+    "domain": "Documents & Campus Posters",
+    "query": "Club membership roster document",
+    "difficulty": "hard",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  },
+  {
+    "id": "eval-104",
+    "domain": "Documents & Campus Posters",
+    "query": "College campus student event notice",
+    "difficulty": "medium",
+    "relevant_image_ids": [
+      "83452665-8f48-48ae-a21c-ce9bff931c9a",
+      "4a4e14f2-764b-45b6-882a-f9e4fe7c7d59",
+      "d4720e32-7519-4ad2-8d94-7fb1a166e0c3",
+      "6659205b-3d7d-451c-a6b8-e1817e31f798"
+    ]
+  }
+]
